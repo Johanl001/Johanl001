@@ -1,21 +1,30 @@
 <div align="center">
 
-<!-- Hero Banner: Deep-space gradient with subtle wave motion -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:0a0a2e,50:16213e,75:1a1a2e,100:0f0c29&height=280&section=header&text=Dhanraj%20Deshmukh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Intelligence%20·%20Shipping%20Products%20·%20Pushing%20Limits&descSize=17&descAlignY=58&descColor=a5b4fc" width="100%"/>
-
-<!-- Refined Typing Animation: JetBrains Mono, weight 500, subtle purple accent -->
-<a href="https://git.io/typing-svg" target="_blank" rel="noopener">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1200&color=818CF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%90;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<!-- Hero Banner: Apple silver gradient, clean San Francisco-style typography -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:f5f5f7,70:ffffff,100:ffffff&height=220&section=header&text=Dhanraj%20Deshmukh&fontSize=62&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Engineering%20Intelligence%20%C2%B7%20Shipping%20Products%20at%20Scale&descSize=17&descAlignY=62&descColor=86868B&fontAlign=center" width="100%"/>
 
 <br/>
 
-<!-- Glassmorphism Stat Cards: Subtle borders, refined colors -->
 <p>
-  <img src="https://img.shields.io/badge/Profile%20Views-1.2k+-7C3AED?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0F172A&color=1E1B4B" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Johanl001?label=Followers&style=flat-square&color=818CF8&labelColor=0F172A&logo=github&logoColor=FFFFFF" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Johanl001?label=Stars&style=flat-square&color=A78BFA&labelColor=0F172A&logo=star&logoColor=FFFFFF" alt="stars" />
-  <img src="https://img.shields.io/github/last-commit/Johanl001/Johanl001?label=Last%20Commit&style=flat-square&color=6366F1&labelColor=0F172A&logo=git&logoColor=FFFFFF" alt="last commit" />
+  <b>Data Science Intern · ML/AI Engineer · CS Student</b><br/>
+  <sub>Sanjivani College of Engineering · Celebal Technologies · Google Student Ambassador</sub>
+</p>
+
+<br/>
+
+<p>
+  <a href="https://github.com/Johanl001" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/github-Johanl001-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=github&logoColor=0071E3" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/dhanraj-deshmukh47" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/linkedin-dhanraj--deshmukh47-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=linkedin&logoColor=0071E3" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dmd007321@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/email-dmd007321%40gmail.com-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=gmail&logoColor=0071E3" alt="Email"/>
+  </a>
+  <a href="https://my-portfolio-ten-sigma-10.vercel.app" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/portfolio-my--portfolio-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=google-chrome&logoColor=0071E3" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
@@ -24,81 +33,83 @@
 
 ## ◆ About Me
 
-```python
-class DhanrajDeshmukh:
-    def __init__(self):
-        self.name       = "Dhanraj Deshmukh"
-        self.alias      = "Johanl001"
-        self.location   = "Mumbai, India 🇮🇳"
-        self.role       = ["CS Student", "ML/AI Engineer", "Full-Stack Dev", "Data Scientist"]
-        self.languages  = ["Python", "TypeScript", "JavaScript", "SQL"]
-        self.focus      = "Building end-to-end AI systems & shipping real products"
-        self.currently  = "oss-license-helper · EdgeSense AI · Anushka's portfolio"
-        self.fun_fact   = "I reverse-engineer problems before I ever write a line of code"
+I'm **Dhanraj Deshmukh** — a 4th-year Computer Engineering student at Sanjivani College of Engineering (SPPU), expected to graduate June 2027 with a CGPA of 8.2/10. I'm a Data Science Intern at Celebal Technologies and a Google Student Ambassador (Campus Lead), focused on shipping intelligent, production-ready systems.
 
-    def say_hi(self):
-        print("Hey! I build things that think, learn, and scale. Let's collaborate.")
+I optimize ML inference pipelines (PyTorch, ONNX) for sub-100ms latency, build scalable real-time backends (FastAPI, WebSockets, Node.js), and validate hardware/software interfaces (SystemVerilog, UVM). Co-inventor on a patent (2026) and NPTEL Elite certified in technical writing. Currently exploring agentic AI (LangGraph, MCP) and model context protocols.
 
-me = DhanrajDeshmukh()
-me.say_hi()
-```
+Open to **Pune, remote, and hybrid** roles in Data Science, ML Engineering, and AI-Native Backend.
 
 ---
 
-## ◆ Currently Building
+## ◆ What I Build
 
-| Project | Stack | Status | Description |
-|---|---|---|---|
-| 🛡️ **oss-license-helper** | `HTML` `Vanilla JS` `CSS` | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white) | Interactive open-source license compliance tool with real-time validation |
-| 🤖 **EdgeSense AI** | `TypeScript` `React` `ML` `TensorFlow.js` | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square&logo=gitbook&logoColor=white) | Real-time predictive maintenance with multi-modal sensor intelligence |
-| 🌿 **AI Plant Disease Detection** | `Python` `FastAPI` `SQLite` `CNN` | ![Shipped](https://img.shields.io/badge/Shipped-8B5CF6?style=flat-square&logo=rocket&logoColor=white) | End-to-end deep learning app for crop health diagnosis |
-| 🧠 **DE-STRESS** | `TypeScript` `React` `Tailwind` `Node.js` | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square&logo=gitbook&logoColor=white) | AI-powered stress detection & wellbeing platform with biometric analysis |
-| 💼 **ML Engineer Portfolio** | `React` `Tailwind` `Vercel` `Framer Motion` | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square&logo=gitbook&logoColor=white) | Showcase with AI chatbot, dark mode, and glassmorphism UI |
+| Project | Stack | Description |
+|---|---|---|
+| **EdgeSense AI** | Python · FastAPI · PyTorch · ONNX · WebSockets | Real-time ML platform for predictive maintenance with sub-100ms inference latency |
+| **PrintMate Kiosk** | Raspberry Pi · Node.js · Express · Linux CUPS · Razorpay | Smart self-service kiosk with secure payments and automated print queues |
+| **AI Plant Disease Detection** | Python · CNN · TensorFlow · OpenCV | Image classification system for agricultural crop health diagnosis |
+| **oss-license-helper** | HTML · Vanilla JS · CSS | Interactive open-source license compliance tool with real-time validation |
 
 ---
 
 ## ◆ Tech Stack
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=818CF8&logoWidth=20" />
-  <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&logoWidth=20" />
-  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&logoWidth=20" />
-  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626&logoWidth=20" />
-  <img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=5C3EE8&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=FFD21E&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=python&logoColor=0071E3" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=pytorch&logoColor=0071E3" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=tensorflow&logoColor=0071E3" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=scikit-learn&logoColor=0071E3" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/ONNX-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=opencv&logoColor=0071E3" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=huggingface&logoColor=0071E3" alt="Hugging Face"/>
 </p>
 
-### 🌐 Frontend & Full-Stack
+### Backend & APIs
 <p>
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20" />
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&logoWidth=20" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0F172A?style=for-the-badge&logo=framer&logoColor=0055FF&logoWidth=20" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=fastapi&logoColor=0071E3" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=express&logoColor=0071E3" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=node.js&logoColor=0071E3" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="REST APIs"/>
 </p>
 
-### 📊 Data & Analytics
+### Databases & Storage
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458&logoWidth=20" />
-  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=013243&logoWidth=20" />
-  <img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=003B57&logoWidth=20" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&logo=plotly&logoColor=3F4F75&logoWidth=20" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=postgresql&logoColor=0071E3" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=mongodb&logoColor=0071E3" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=firebase&logoColor=0071E3" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=redis&logoColor=0071E3" alt="Redis"/>
+  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=sqlite&logoColor=0071E3" alt="SQLite"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF&logoWidth=20" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2671E5&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Cloudflare-0F172A?style=for-the-badge&logo=cloudflare&logoColor=F38020&logoWidth=20" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=react&logoColor=0071E3" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=typescript&logoColor=0071E3" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=tailwindcss&logoColor=0071E3" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=nextdotjs&logoColor=0071E3" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=javascript&logoColor=0071E3" alt="JavaScript"/>
+</p>
+
+### DevOps, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=docker&logoColor=0071E3" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=git&logoColor=0071E3" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=linux&logoColor=0071E3" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=amazon-aws&logoColor=0071E3" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=vercel&logoColor=0071E3" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=githubactions&logoColor=0071E3" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/PM2-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="PM2"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=raspberry-pi&logoColor=0071E3" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="ESP32"/>
+</p>
+
+### Verification & Testing
+<p>
+  <img src="https://img.shields.io/badge/SystemVerilog-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/UVM-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="UVM"/>
+  <img src="https://img.shields.io/badge/ModelSim-000000?style=flat-square&labelColor=000000&color=F5F5F7&logoColor=0071E3" alt="ModelSim"/>
 </p>
 
 ---
@@ -107,41 +118,16 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Stats Cards: Tokyo Night theme with refined radius -->
-<img src="https://github-readme-stats.vercel.app/api?username=Johanl001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=A78BFA&text_color=C4B5FD&border_radius=16&border_color=1E293B" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanl001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=C4B5FD&border_radius=16&border_color=1E293B&langs_count=10" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Johanl001&show_icons=true&hide_border=true&bg_color=F5F5F7&title_color=000000&text_color=86868B&icon_color=0071E3&border_radius=12&border_color=D2D2D2&locale=en" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanl001&layout=compact&hide_border=true&bg_color=F5F5F7&title_color=000000&text_color=86868B&border_radius=12&border_color=D2D2D2&langs_count=8" height="170" />
 
 <br/><br/>
 
-<!-- Streak Stats: Custom gradient ring -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Johanl001&theme=tokyonight&hide_border=true&background=0F172A&ring=818CF8&fire=A78BFA&currStreakLabel=C4B5FD&sideNums=818CF8&sideLabels=6366F1&dates=64748B&border_radius=16&border_color=1E293B" width="65%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Johanl001&hide_border=true&background=F5F5F7&ring=0071E3&fire=0071E3&currStreakLabel=000000&sideNums=86868B&sideLabels=0071E3&dates=86868B&border_radius=12&border_color=D2D2D2" width="75%" />
 
 <br/><br/>
 
-<!-- Activity Graph: Deep space theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johanl001&bg_color=0F172A&color=818CF8&line=A78BFA&point=C4B5FD&area=true&area_color=1E1B4B&hide_border=true&radius=16" width="95%" />
-
-</div>
-
----
-
-## ◆ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Johanl001&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C" width="95%" />
-</div>
-
----
-
-## ◆ Featured Repositories
-
-<div align="center">
-
-| Repository | Stars | Language | Description |
-|---|---|---|---|
-| <a href="https://github.com/Johanl001/oss-license-helper" target="_blank"><strong>oss-license-helper</strong></a> | ![Stars](https://img.shields.io/github/stars/Johanl001/oss-license-helper?style=flat-square&color=818CF8&labelColor=0F172A) | `JavaScript` | License compliance automation for open-source projects |
-| <a href="https://github.com/Johanl001/EdgeSense-AI" target="_blank"><strong>EdgeSense AI</strong></a> | ![Stars](https://img.shields.io/github/stars/Johanl001/EdgeSense-AI?style=flat-square&color=818CF8&labelColor=0F172A) | `TypeScript` | Predictive maintenance with multi-modal ML |
-| <a href="https://github.com/Johanl001/AI-Plant-Disease-Detection" target="_blank"><strong>AI Plant Disease Detection</strong></a> | ![Stars](https://img.shields.io/github/stars/Johanl001/AI-Plant-Disease-Detection?style=flat-square&color=818CF8&labelColor=0F172A) | `Python` | CNN-based crop health diagnosis system |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johanl001&bg_color=F5F5F7&color=0071E3&line=000000&point=0071E3&area=true&area_color=D2D2D2&hide_border=true&radius=12" width="95%" alt="activity graph"/>
 
 </div>
 
@@ -151,20 +137,20 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://linkedin.com/in/dhanrajdeshmukh" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=22&labelColor=1E1B4B&color=0F172A" alt="LinkedIn" />
+<a href="https://linkedin.com/in/dhanraj-deshmukh47" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=linkedin&logoColor=0071E3" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://dhanrajdeshmukh.dev" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=FF7139&logoWidth=22&labelColor=1E1B4B&color=0F172A" alt="Portfolio" />
+<a href="https://my-portfolio-ten-sigma-10.vercel.app" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=google-chrome&logoColor=0071E3" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:dhanraj.deshmukh@email.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=22&labelColor=1E1B4B&color=0F172A" alt="Email" />
+<a href="mailto:dmd007321@gmail.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=gmail&logoColor=0071E3" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/Johanl001" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF&logoWidth=22&labelColor=1E1B4B&color=0F172A" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&labelColor=000000&color=F5F5F7&logo=github&logoColor=0071E3" alt="GitHub"/>
 </a>
 
 </div>
@@ -173,21 +159,13 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake Animation: GitHub Dark theme -->
-<img src="https://raw.githubusercontent.com/Johanl001/Johanl001/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
-
+<sub>Crafted with precision · Shipped with intent · Built on the San Francisco type system</sub>
 <br/>
-
-<!-- Footer Wave: Reverse gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:030014&height=140&section=footer" width="100%"/>
-
-<sub>⚡ Crafted with obsession · Shipped with precision · Updated automatically via GitHub Actions</sub>
-<br/>
-<sub>🌌 <a href="https://github.com/Johanl001/Johanl001" target="_blank" style="color: #818CF8;">View source</a> · <a href="https://github.com/Johanl001" target="_blank" style="color: #818CF8;">Follow my work</a></sub>
+<sub>🌌 <a href="https://github.com/Johanl001/Johanl001" target="_blank" rel="noopener">View source</a> · <a href="https://github.com/Johanl001" target="_blank" rel="noopener">Follow my work</a></sub>
 
 </div>
 
-<!-- Hidden SEO / Structured Data for profile discovery -->
+<!-- Structured Data for profile discovery -->
 <!--
 {
   "@context": "https://schema.org",
@@ -196,12 +174,13 @@ me.say_hi()
   "alternateName": "Johanl001",
   "url": "https://github.com/Johanl001",
   "sameAs": [
-    "https://linkedin.com/in/dhanrajdeshmukh",
-    "https://dhanrajdeshmukh.dev",
+    "https://linkedin.com/in/dhanraj-deshmukh47",
+    "https://my-portfolio-ten-sigma-10.vercel.app",
     "https://github.com/Johanl001"
   ],
-  "jobTitle": "ML/AI Engineer, Full-Stack Developer, Data Scientist",
-  "worksFor": { "@type": "Organization", "name": "Open Source" },
-  "knowsAbout": ["Machine Learning", "Deep Learning", "Full-Stack Development", "Data Science", "Open Source"]
+  "jobTitle": "Data Science Intern · ML/AI Engineer · CS Student",
+  "worksFor": { "@type": "Organization", "name": "Celebal Technologies" },
+  "alumniOf": { "@type": "EducationalOrganization", "name": "Sanjivani College of Engineering" },
+  "knowsAbout": ["Machine Learning", "Deep Learning", "Data Science", "Backend Engineering", "Real-time Systems", "Open Source"]
 }
 -->
